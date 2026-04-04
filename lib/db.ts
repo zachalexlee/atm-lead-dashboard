@@ -189,4 +189,5 @@ export function getStats() {
   };
 }
 
+export { db };
 export default db;

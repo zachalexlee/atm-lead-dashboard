@@ -1,0 +1,6 @@
+permit_number,permit_type,address,description,valuation,sqft,issue_date,status,applicant,owner
+COM2026-00123,Commercial Building,5623 S Tacoma Way Tacoma WA 98409,New construction - convenience store with gas pumps,375000,3200,2026-03-15,Issued,XYZ Construction LLC,ABC Retail Properties
+TI2026-00156,Tenant Improvement,3402 S 38th St Tacoma WA 98409,Tenant improvement for retail cannabis sales,125000,1500,2026-01-28,Final Inspection,Green Build Co,Cannabis Holdings LLC
+COM2026-00234,New Commercial,7215 Pacific Ave Tacoma WA 98408,New convenience store with fuel dispensers,580000,2800,2026-02-12,Under Construction,Retail Builders Inc,Gas Station Group
+COM2026-00089,New Commercial,12234 Pacific Highway SW Lakewood WA 98499,New grocery market building,1850000,12000,2025-12-15,Issued,Big Build Corp,Fresh Foods Market LLC
+COM2026-00198,Change of Occupancy,1920 Pacific Ave Tacoma WA 98402,Convert retail space to restaurant with full bar,320000,3200,2026-02-28,Under Review,Interior Concepts,Downtown Dining Group
